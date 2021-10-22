@@ -11,3 +11,5 @@
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+
+<a href="https://www.codecheef.org/article/laravel-6-ajax-image-upload-with-preview-using-base-64">Ref</a>
